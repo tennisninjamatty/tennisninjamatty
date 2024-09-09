@@ -1,4 +1,4 @@
-## Hi there 👋
+## I've finished the first assignment!
 
 <!--
 **tennisninjamatty/tennisninjamatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
